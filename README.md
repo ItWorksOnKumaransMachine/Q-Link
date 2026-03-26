@@ -5,7 +5,7 @@ This project provides an open-source framework for implementing **Post-Quantum C
 ---
 
 ##  Project Overview
-Standard drone RF links are often unencrypted or use legacy protocols vulnerable to modern "brute-force" or AI-driven signal analysis.**Project Q-Link** implements a "Quantum-Safe" security layer. It focuses on:
+Standard drone RF links are often unencrypted or use legacy protocols vulnerable to modern "brute-force" or AI-driven signal analysis, implementing a "Quantum-Safe" security layer. It focuses on:
 * **Indigenous Security:** Building a secure communication stack from the ground up using open-source tools
 * **Resilience:** Protecting the RF control signals (Throttle, Yaw, Pitch, Roll) using lightweight lattice-based cryptography
   
